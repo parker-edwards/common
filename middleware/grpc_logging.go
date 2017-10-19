@@ -7,7 +7,6 @@ import (
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 
-	"github.com/weaveworks/common/logging"
 )
 
 const gRPC = "gRPC"
